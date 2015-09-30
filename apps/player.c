@@ -6,5 +6,6 @@ void main()
 {
 	func1();
 	func2();
+	printf("jinsook is nice");
 	printf("this is player!\n");
 }
