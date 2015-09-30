@@ -4,7 +4,6 @@
 
 void main()
 {
-	func1();
 	func2();
 	printf("this is player! commit  \n");
 }
