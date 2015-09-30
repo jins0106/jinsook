@@ -5,6 +5,10 @@
 void main()
 {
 	func2();
+	func2();
 	printf("this is player! commit  \n");
+	func1();
+	func1();
+	func1();
 	func1();
 }
